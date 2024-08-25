@@ -1,6 +1,6 @@
 - 👋 Inês Serra (@inessilvaserra)
 - 🌎 Sintra, Portugal
-- 💼 Developer | Freelancer
+- 💼 Web developer
 - 💻 NodeJS, React, VueJS, Javascript, Jquery...
 - 🐱 My cat is my project manager 
 
